@@ -1,2 +1,2 @@
-2.9.3.2
-https://
+2.9.3.1
+https://github.com/maniacosdatecnologia-cpu/MdtStart/releases/download/1.0.0.5/MdtStart.zip
