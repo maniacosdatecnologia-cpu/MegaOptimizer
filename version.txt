@@ -1,2 +1,2 @@
-2.11.10.6
-https://github.com/maniacosdatecnologia-cpu/MegaOptimizer/releases/download/2.11.10.6/MegaOptimizer.zip
+2.11.10.7
+https://github.com/maniacosdatecnologia-cpu/MegaOptimizer/releases/download/2.11.10.7/MegaOptimizer.zip
